@@ -1,0 +1,2 @@
+# Wwset
+wwset system commond
